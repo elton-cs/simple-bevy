@@ -5,3 +5,4 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.14.1"
+torii-client = { git = "https://github.com/dojoengine/dojo.git", tag = "v1.0.0-alpha.5" }
